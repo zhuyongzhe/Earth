@@ -2,7 +2,6 @@
 
 地球管理结构和参考<br>
 英文地址：https://github.com/zhuyongzhe/Earth/tags<br>
-英文地址：https://framagit.org/zhuyongzhe/earth/-/tags<br>
 中文地址：https://www.cnblogs.com/zhuyongzhe85
 
 <h3>作者：朱永哲 </h3>
