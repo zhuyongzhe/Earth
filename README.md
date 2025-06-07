@@ -3,8 +3,7 @@
 地球管理结构和参考<br>
 英文地址：https://github.com/zhuyongzhe/Earth/tags<br>
 中文地址：https://zhuyongzhe.wordpress.com<br>
-备用地址：https://freeimage.host/zhuyongzhe
+备用地址：https://freeimage.host/zhuyongzhe<br>
+作者：朱永哲
 
-<h3>作者：朱永哲 </h3>
-
-持续更新中......<br>
+<h3>持续更新中......</h3>
